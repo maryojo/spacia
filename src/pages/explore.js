@@ -17,7 +17,7 @@ const Explore = () => {
       <h5 className='mb-10 text-center md:text-left'><span className='pr-5 opacity-40'>01</span>News</h5>
       <NasaImage/>
       </div>
-    <DestinationLayout name={"moon"} description={"See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites."} distance={"384,400 km"} travelTime={"3 days"}/>
+    <DestinationLayout name={"star"} description={"See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites."} distance={"384,400 km"} travelTime={"3 days"}/>
     </div>
     </div>
   )
