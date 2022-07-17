@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import Navbar from '../components/Navbar';
 import { Tab, TabPanel, TabList, Tabs } from 'react-tabs'
+import NasaImage from '../components/NasaImage';
 import DestinationLayout from '../components/DestinationLayout';
 import moonImg from '../images/destination/image-moon.png'
 
@@ -14,7 +15,7 @@ const Explore = () => {
     <div className='flex flex-col lg:flex-row justify-between px-7 md:px-20 py-7 md:px-0  items-center'>
       <div className='flex flex-col'>
       <h5 className='mb-10 text-center md:text-left'><span className='pr-5 opacity-40'>01</span>News</h5>
-      <img src={image} alt="" className='w-[70%] mx-auto'/>
+      <NasaImage/>
       </div>
     <DestinationLayout name={"moon"} description={"See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites."} distance={"384,400 km"} travelTime={"3 days"}/>
     </div>
