@@ -1,12 +1,14 @@
 # Space tourism web app
 The UI design was gotten from the  [Space tourism challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). I also added some more features to the web app
 
-### Links
-
-- Live Site URL: [https://dynamic-crostata-c45511.netlify.app/](https://dynamic-crostata-c45511.netlify.app/)
-- GitHub Repository: [https://github.com/maryojo/space-tourism-app](https://github.com/maryojo/space-tourism-app)
-
 [![MIT License](https://img.shields.io/github/last-commit/maryojo/space-tourism-app)](https://github.com/maryojo/space-tourism-app/commits/main)
+
+- **Live Site URL** : [https://dynamic-crostata-c45511.netlify.app/](https://dynamic-crostata-c45511.netlify.app/)
+- **GitHub Repository** : [https://github.com/maryojo/space-tourism-app](https://github.com/maryojo/space-tourism-app)
+
+
+### Progress
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
 
 ## Table of contents
 
