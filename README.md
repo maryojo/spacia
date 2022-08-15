@@ -1,4 +1,6 @@
 # Space tourism web app
+![Web App screenshot](https://i.ibb.co/rmd5scG/space-screenshot.png)
+
 The UI design was gotten from the  [Space tourism challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). I also added some more features to the web app
 
 [![MIT License](https://img.shields.io/github/last-commit/maryojo/space-tourism-app)](https://github.com/maryojo/space-tourism-app/commits/main)
