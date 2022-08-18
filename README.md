@@ -1,12 +1,12 @@
-# Space tourism web app
+# Spacia
 ![Web App screenshot](https://i.ibb.co/rmd5scG/space-screenshot.png)
 
 The UI design was gotten from the  [Space tourism challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). I also added some more features to the web app
 
-[![MIT License](https://img.shields.io/github/last-commit/maryojo/space-tourism-app)](https://github.com/maryojo/space-tourism-app/commits/main)
+[![MIT License](https://img.shields.io/github/last-commit/maryojo/spacia)](https://github.com/maryojo/spacia/commits/main)
 
 - **Live Site URL** : [https://dynamic-crostata-c45511.netlify.app/](https://dynamic-crostata-c45511.netlify.app/)
-- **GitHub Repository** : [https://github.com/maryojo/space-tourism-app](https://github.com/maryojo/space-tourism-app)
+- **GitHub Repository** : [https://github.com/maryojo/spacia](https://github.com/maryojo/spacia)
 
 
 ### Progress
@@ -14,17 +14,19 @@ The UI design was gotten from the  [Space tourism challenge on Frontend Mentor](
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot) 
-  - [Features](#features)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Spacia](#spacia)
+    - [Progress](#progress)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Features](#features)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
 
 
 ## Overview
