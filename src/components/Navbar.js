@@ -7,7 +7,9 @@ const Navbar = () => {
   return (
     <div className='flex flex-row justify-between items-center pt-5 sm:pt-10 lg:pt-3'>
       <div className='ml-5 sm:ml-10 lg:ml-20 w-[50px]'>
+      <Link to="/">
         <img src={logo} alt="" className='w-[50%] md:w-[70%] cursor-pointer'/>
+      </Link>
       </div>
       <div>
         <img src={menu} alt="" className='lg:hidden mr-5 sm:mr-10 cursor-pointer'/>
