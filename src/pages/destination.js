@@ -13,7 +13,7 @@ const Destination = () => {
   return (
     <div className="bg-destination-mobile md:bg-destination-tablet lg:bg-destination-desktop h-screen mt-0 bg-cover bg-no-repeat bg-right">
     <Navbar />
-    <div className='flex flex-col lg:flex-row justify-between px-7 md:px-20 py-7 md:px-0  items-center'>
+    <div className='flex flex-col lg:flex-row justify-between px-7 md:px-20 py-7 md:px-0  items-center lg:mx-[5rem]'>
       <div className='flex flex-col'>
       <h5 className='mb-10 text-center md:text-left'><span className='pr-5 opacity-40'>01</span>Pick your destination</h5>
       <img src={image} alt="" className='w-[70%] mx-auto'/>
