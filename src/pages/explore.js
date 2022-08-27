@@ -47,15 +47,15 @@ const Explore = () => {
     <div className="bg-destination-mobile md:bg-destination-tablet lg:bg-destination-desktop h-screen mt-0 bg-cover bg-no-repeat bg-right">
       <Navbar />
       <div className="flex flex-col lg:flex-row justify-between mx-[5rem] px-7 md:px-20 py-7 md:px-0  items-center">
-        <div className="flex flex-col w-[50%] mr-[5rem]">
+        <div className="flex flex-col w-full lg:w-[50%] lg:mr-[5rem]">
           <h5 className="mb-10 text-center md:text-left">
             Space titbits
           </h5>
-          <div className="p-5 backdrop-blur-sm bg-white/20 rounded-sm h-[76vh] w-full">
+          <div className="p-5 backdrop-blur-sm bg-white/20 rounded-sm h-[76vh] w-full mb-[2rem] lg:mb-0">
             <img src={image?.url} alt={image?.title} className="h-[70vh] w-full bg-cover" />
           </div>
         </div>
-        <div className="flex flex-col w-[50%]">
+        <div className="flex flex-col w-full lg:w-[50%]">
           <h3>{image?.title}</h3>
           <hr className="my-7 relative" />
           <p>{image?.explanation}</p>

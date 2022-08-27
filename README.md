@@ -10,7 +10,7 @@ The UI design was gotten from the  [Space tourism challenge on Frontend Mentor](
 
 
 ### Progress
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 
 ## Table of contents
 
