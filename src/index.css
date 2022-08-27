@@ -48,7 +48,11 @@
     @apply text-[14px] tracking-[2.35] uppercase;
   }
   .nav-text{
-    @apply text-[14px] md:text-[16px] tracking-[2.36] md:tracking-[2.7] uppercase;
+    @apply text-[14px] md:text-[16px] tracking-[2.36] md:tracking-[2.7] uppercase ;
+  }
+
+  .nav-text-hover{
+    @apply hover:scale-[115%] hover:transition hover:duration-500 hover:delay-100 active:scale-[115%];
   }
 
   .tab-selected{

@@ -14,16 +14,16 @@ const Navbar = () => {
         <img src={menu} alt="" className='lg:hidden mr-5 sm:mr-10 cursor-pointer'/>
         <nav className='nav-text list-none hidden lg:flex flex-row items-center space-x-10 h-[80px] backdrop-blur-sm bg-white/5 pl-40 pr-52'>
         <Link to="/">
-        <li className='cursor-pointer'><span className='font-bold pr-2'>00</span> Home</li>
+        <li className='cursor-pointer nav-text-hover'><span className='font-bold pr-2'>00</span> Home</li>
         </Link>
         <Link to="/destination">
-          <li className='cursor-pointer'><span className='font-bold pr-2'>01</span> Destination</li>
+          <li className='cursor-pointer nav-text-hover'><span className='font-bold pr-2'>01</span> Destination</li>
         </Link>
         <Link to="/crew">
-          <li className='cursor-pointer'><span className='font-bold pr-2'>02</span> Crew</li>
+          <li className='cursor-pointer nav-text-hover'><span className='font-bold pr-2'>02</span> Crew</li>
         </Link>
         <Link to="/technology">
-          <li className='cursor-pointer'><span className='font-bold pr-2'>03</span> Technology</li>
+          <li className='cursor-pointer nav-text-hover'><span className='font-bold pr-2'>03</span> Technology</li>
         </Link>
         </nav>
       </div>
